@@ -1,0 +1,24 @@
+Code:
+  - numpy
+  - C++
+  - QT
+  - Node.js
+  - rust
+  - kotlin
+Article:
+  - requests-mock: 'https://requests-mock.readthedocs.io/en/latest/overview.html'
+  - decorator: 'https://realpython.com/primer-on-python-decorators/'
+  - Prompt Engineering 的核心是逻辑: 'https://baoyu.io/blog/prompt-engineering/the-core-of-prompt-engineering'
+  - 三步翻译 prompt: 'https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2'
+  - 五步翻译 prompt: 'https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt'
+Music:
+  - 给我一个理由忘记 - en
+  - 隔墙有耳 - 张天赋
+  - 你要的全拿走 - 胡彦斌
+  - 无颜女 - 徐良/小凌
+Tool:
+  - gamma: 'https://gamma.app/create/generate'
+  - kimi chat: 'https://kimi.moonshot.cn' 
+Keep Concern:
+  - 华中农业大学教授学术不端
+  - 邯郸初中生遇害案
