@@ -16,6 +16,7 @@
 - 🌱 Learning automated testing and LLM prompt optimization
 - :muscle: Lingyun Ye(夜凌云) FanBoi：卑鄙只是弱者的伎俩，真正的强者根本不屑为之
 - :robot: Follow the Wave of AI and Look Forward to AGI
+- :fire: All kinds of fire music, <i>enjoying Phonk lately</i>
 
 <br>
 
@@ -27,16 +28,16 @@
       <th>Code</th><th>Article</th><th>Music</th><th>Tool</th><th>Keep Concern</th>
     </tr>
     <tr>
-      <td>numpy</td><td><a href="https://requests-mock.readthedocs.io/en/latest/overview.html">requests-mock</a></td><td>给我一个理由忘记 - en</td><td><a href="https://gamma.app/create/generate">gamma</a></td><td>华中农业大学教授学术不端</td>
+      <td>numpy</td><td><a href="https://requests-mock.readthedocs.io/en/latest/overview.html">requests-mock</a></td><td>City 17 - Aega</td><td><a href="https://gamma.app/create/generate">gamma</a></td><td>华中农业大学教授学术不端</td>
     </tr>
     <tr>
-      <td>C++</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>隔墙有耳 - 张天赋</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td>邯郸初中生遇害案</td>
+      <td>C++</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>给我一个理由忘记 - en</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td>邯郸初中生遇害案</td>
     </tr>
     <tr>
       <td>QT</td><td><a href="https://baoyu.io/blog/prompt-engineering/the-core-of-prompt-engineering">Prompt Engineering 的核心是逻辑</a></td><td>你要的全拿走 - 胡彦斌</td><td></td><td></td>
     </tr>
     <tr>
-      <td>Node.js</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>无颜女 - 徐良/小凌</td><td></td><td></td>
+      <td>Node.js</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td></td><td></td><td></td>
     </tr>
     <tr>
       <td>rust</td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td></td><td></td><td></td>
