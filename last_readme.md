@@ -13,7 +13,7 @@
 <img align="right" height="170px" width="265px" src="https://github.com/fenglingback/My-Saved-Images/blob/main/%E5%A4%9C%E5%87%8C%E4%BA%91.gif?raw=true" />
 
 - 👀 Interested in Software QA, LLM, Desktop Application Development
-- 🌱 Learning automated testing and LLM prompt optimization
+- 🌱 Learning automatic testing and LLM prompt optimization
 - :muscle: Lingyun Ye(夜凌云) FanBoi：卑鄙只是弱者的伎俩，真正的强者根本不屑为之
 - :robot: Follow the Wave of AI and Look Forward to AGI
 - :fire: All kinds of fire music, <i>enjoying Phonk lately</i>
