@@ -10,6 +10,7 @@
 
 <br>
 
+<img align="right" height="140px" width="180px" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 - 👀 Interested in Software QA, LLM, Desktop Application Development
 - 🌱 Learning automated testing and LLM prompt optimization
