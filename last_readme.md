@@ -4,7 +4,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧑 youngster | 💻 Software Tester | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="20"> China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-<h5 align="center">
+<h4 align="center">
   <i>⚡️Make things beautiful while pursuing simplicity and efficiency.⚡️</i>
 </h5>
 
@@ -59,7 +59,7 @@
 
 <br>
 
-<h1 align='center'>⚡️<i>Keeping the Beginning, Not Assimilating!</i>⚡️</h1>
+<h2 align='center'>⚡️<i>Keeping the Beginning, Not Assimilating!</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
