@@ -10,7 +10,7 @@
 
 <br>
 
-<img align="right" height="170px" width="270px" src="https://github.com/fenglingback/My-Saved-Images/blob/main/%E5%A4%9C%E5%87%8C%E4%BA%91.gif?raw=true" />
+<img align="right" height="170px" width="265px" src="https://github.com/fenglingback/My-Saved-Images/blob/main/%E5%A4%9C%E5%87%8C%E4%BA%91.gif?raw=true" />
 
 - 👀 Interested in Software QA, LLM, Desktop Application Development
 - 🌱 Learning automated testing and LLM prompt optimization
