@@ -46,27 +46,6 @@ def to_markdown(data: list):
     # print(th)
     tr = data[1:]
     # print(tr)
-    # table = """
-    # <table align="center">
-    #     <tr>
-    #     {% for th in ths %}
-    #         <th>{{ th }}</th>
-    #     {% endfor %}
-    #     </tr>
-    # {% for item in trs %}
-    #     <tr>
-    #     {% for td in item %}
-    #         {% if td is mapping %}
-    #             <td><a href="{{ td.values()|first }}">{{ td.keys()|first }}</a></td>
-    #         {% else %}
-    #             <td>{{ td }}</td>
-    #         {% endif %}
-    #     {% endfor %}
-    #     </tr>
-    # {% endfor %}
-    # </table>
-    # """
-    # template = Template(table)
 
     # 创建一个模板加载器
     templateLoader = FileSystemLoader(searchpath="./")
