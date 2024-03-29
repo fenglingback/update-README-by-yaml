@@ -1,5 +1,4 @@
 from ruamel.yaml import YAML
-from jinja2 import Template
 from jinja2 import Environment, FileSystemLoader
 
 
@@ -41,7 +40,7 @@ def to_data(file_path):
     return end_data
 
 
-def to_markdown(data: list):
+def to_markdown(data: list, files_list: list):
     th = data[0]
     # print(th)
     tr = data[1:]
@@ -60,14 +59,16 @@ def to_markdown(data: list):
     template = templateEnv.get_template(TEMPLATE_FILE)
 
     # 渲染模板
+    for path in files_list:
+        with open(path, 'w', encoding='utf-8') as f:
+            result = template.render(ths=th, trs=tr)
+            f.write(result)
 
-    with open(r'D:\repo\fenglingback\README.md', 'w', encoding='utf-8') as f:
-        result = template.render(ths=th, trs=tr)
-        f.write(result)
-    # 打印渲染后的结果
-    # print(result)
+        # 打印渲染后的结果
+        # print(result)
 
 
 if __name__ == '__main__':
-    data = to_data(r'D:\repo\yaml_to_table\table_data.yaml')
-    to_markdown(data)
+    data = to_data(r'D:\repo\update_markdown_by_yaml\table_data.yaml')
+    to_markdown(data, [r'D:\repo\update_markdown_by_yaml\last_readme.md',
+                r'D:\repo\fenglingback\README.md'])
