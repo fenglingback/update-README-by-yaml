@@ -8,7 +8,6 @@ Code:
 Article:
   - requests-mock: 'https://requests-mock.readthedocs.io/en/latest/overview.html'
   - decorator: 'https://realpython.com/primer-on-python-decorators/'
-  - Prompt Engineering 的核心是逻辑: 'https://baoyu.io/blog/prompt-engineering/the-core-of-prompt-engineering'
   - 三步翻译 prompt: 'https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2'
   - 五步翻译 prompt: 'https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt'
 Music:
