@@ -34,16 +34,16 @@
       <td>C++</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>隔离(Studio Live Duet) - 陈凯咏/林家谦</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td></td>
     </tr>
     <tr>
-      <td>QT</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>国际孤独等级 - Gareth.T</td><td></td><td></td>
+      <td>QT</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td></td>
     </tr>
     <tr>
-      <td>Node.js</td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
+      <td>Node.js</td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td>国际孤独等级 - Gareth.T</td><td></td><td></td>
     </tr>
     <tr>
-      <td>rust</td><td></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
+      <td>kotlin</td><td></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
     </tr>
     <tr>
-      <td>kotlin</td><td></td><td></td><td></td><td></td>
+      <td>Rust</td><td></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
     </tr>
     
 </table>
