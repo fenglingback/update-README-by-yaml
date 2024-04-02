@@ -28,10 +28,10 @@
       <th>Code</th><th>Article</th><th>Music</th><th>Tool</th><th>Keep Concern</th>
     </tr>
     <tr>
-      <td>numpy</td><td><a href="https://requests-mock.readthedocs.io/en/latest/overview.html">requests-mock</a></td><td>City 17 - Aega</td><td><a href="https://gamma.app/create/generate">gamma</a></td><td>华中农业大学教授学术不端</td>
+      <td>numpy</td><td><a href="https://requests-mock.readthedocs.io/en/latest/overview.html">requests-mock</a></td><td>City 17 - Aega</td><td><a href="https://gamma.app/create/generate">gamma</a></td><td>邯郸初中生遇害案</td>
     </tr>
     <tr>
-      <td>C++</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>隔离(Studio Live Duet) - 陈凯咏/林家谦</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td>邯郸初中生遇害案</td>
+      <td>C++</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>隔离(Studio Live Duet) - 陈凯咏/林家谦</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td></td>
     </tr>
     <tr>
       <td>QT</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>国际孤独等级 - Gareth.T</td><td></td><td></td>
