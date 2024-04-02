@@ -28,22 +28,22 @@
       <th>Code</th><th>Article</th><th>Music</th><th>Tool</th><th>Keep Concern</th>
     </tr>
     <tr>
-      <td>numpy</td><td><a href="https://requests-mock.readthedocs.io/en/latest/overview.html">requests-mock</a></td><td>City 17 - Aega</td><td><a href="https://gamma.app/create/generate">gamma</a></td><td>邯郸初中生遇害案</td>
+      <td>C++</td><td><a href="https://requests-mock.readthedocs.io/en/latest/overview.html">requests-mock</a></td><td>City 17 - Aega</td><td><a href="https://gamma.app/create/generate">gamma</a></td><td>邯郸初中生遇害案</td>
     </tr>
     <tr>
-      <td>C++</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>隔离(Studio Live Duet) - 陈凯咏/林家谦</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td></td>
+      <td>QT</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>隔离(Studio Live Duet) - 陈凯咏/林家谦</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td></td>
     </tr>
     <tr>
-      <td>QT</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td></td>
+      <td>Node.js</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td></td>
     </tr>
     <tr>
-      <td>Node.js</td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td>国际孤独等级 - Gareth.T</td><td></td><td></td>
+      <td>kotlin</td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td>国际孤独等级 - Gareth.T</td><td></td><td></td>
     </tr>
     <tr>
-      <td>kotlin</td><td></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
+      <td>Rust</td><td></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
     </tr>
     <tr>
-      <td>Rust</td><td></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
+      <td></td><td></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
     </tr>
     
 </table>
@@ -54,8 +54,8 @@
 ## :man_technologist: GitHub Stats
 <p align="center">
   <a href="https://github.com/fenglingback?tab=repositories">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fenglingback&show_icons=true&theme=algolia&count_private=true" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenglingback&langs_count=8&theme=algolia&hide=html" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=fenglingback&show_icons=true&theme=algolia&count_private=true" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenglingback&langs_count=8&theme=algolia&hide=html" />
   </a>
 </p>
 
