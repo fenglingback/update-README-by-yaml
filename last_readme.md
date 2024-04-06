@@ -37,13 +37,13 @@
       <td>Node.js</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td></td>
     </tr>
     <tr>
-      <td>kotlin</td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td>国际孤独等级 - Gareth.T</td><td></td><td></td>
+      <td>kotlin</td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
     </tr>
     <tr>
-      <td>Rust</td><td><a href="https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code">claude3生成单元测试 prompt</a></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
+      <td>Rust</td><td><a href="https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code">claude3生成单元测试 prompt</a></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
     </tr>
     <tr>
-      <td></td><td><a href="https://baoyu.io/translations/prompt-engineering/chatgpt-prompts-for-academic-writing">15个 ChatGPT 学术写作神器提示</a></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
+      <td></td><td><a href="https://baoyu.io/translations/prompt-engineering/chatgpt-prompts-for-academic-writing">15个 ChatGPT 学术写作神器提示</a></td><td></td><td></td><td></td>
     </tr>
     
 </table>
