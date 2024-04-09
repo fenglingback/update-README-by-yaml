@@ -5,6 +5,7 @@ Code:
   - kotlin
   - Rust
 Article:
+  - HTTP: 'https://developer.mozilla.org/zh-CN/docs/Web/HTTP'
   - requests-mock: 'https://requests-mock.readthedocs.io/en/latest/overview.html'
   - decorator: 'https://realpython.com/primer-on-python-decorators/'
   - 三步翻译 prompt: 'https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2'
@@ -23,3 +24,4 @@ Tool:
 Keep Concern:
   - 邯郸初中生遇害案
   - 女子酒店遇害借款未索回
+  - 萝卜大叔讨薪
