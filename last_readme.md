@@ -31,19 +31,16 @@
       <td>C++</td><td><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP">HTTP</a></td><td>City 17 - Aega</td><td><a href="https://gamma.app/create/generate">gamma</a></td><td>邯郸初中生遇害案</td>
     </tr>
     <tr>
-      <td>QT</td><td><a href="https://requests-mock.readthedocs.io/en/latest/overview.html">requests-mock</a></td><td>隔离(Studio Live Duet) - 陈凯咏/林家谦</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td>女子酒店遇害借款未索回</td>
+      <td>QT</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>隔离(Studio Live Duet) - 陈凯咏/林家谦</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td>女子酒店遇害借款未索回</td>
     </tr>
     <tr>
-      <td>Node.js</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td>萝卜大叔讨薪</td>
+      <td>Node.js</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td>萝卜大叔讨薪</td>
     </tr>
     <tr>
-      <td>kotlin</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
+      <td>kotlin</td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
     </tr>
     <tr>
-      <td>Rust</td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
-    </tr>
-    <tr>
-      <td></td><td><a href="https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code">claude3生成单元测试 prompt</a></td><td></td><td></td><td></td>
+      <td>Rust</td><td><a href="https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code">claude3生成单元测试 prompt</a></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
     </tr>
     <tr>
       <td></td><td><a href="https://baoyu.io/translations/prompt-engineering/chatgpt-prompts-for-academic-writing">15个 ChatGPT 学术写作神器提示</a></td><td></td><td></td><td></td>
