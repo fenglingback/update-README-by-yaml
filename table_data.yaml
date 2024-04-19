@@ -6,6 +6,7 @@ Code:
   - Rust
 Article:
   - HTTP: 'https://developer.mozilla.org/zh-CN/docs/Web/HTTP'
+  - 提示工程: 'https://github.com/fighting41love/funNLP#%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B'
   - decorator: 'https://realpython.com/primer-on-python-decorators/'
   - 三步翻译 prompt: 'https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2'
   - 五步翻译 prompt: 'https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt'
