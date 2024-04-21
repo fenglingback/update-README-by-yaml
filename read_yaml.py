@@ -106,6 +106,6 @@ def to_markdown(data: list, files_list: list):
 
 
 if __name__ == '__main__':
-    data = format_data(r'D:\repo\update_markdown_by_yaml\table_data.yaml')
+    data = format_data(r'D:\repo\update_markdown_by_yaml\table_data.yml')
     to_markdown(data, [r'D:\repo\update_markdown_by_yaml\last_readme.md',
                 r'D:\repo\fenglingback\README.md'])
