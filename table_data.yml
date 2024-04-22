@@ -12,10 +12,8 @@ Article:
   - claude3生成单元测试 prompt: 'https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code'
 Music:
   - City 17 - Aega
-  - 隔离(Studio Live Duet) - 陈凯咏/林家谦
+  - 骂不醒 - 胜屿
   - 爱情悬崖 - 周杰伦
-  - 给缺席的人唱首歌 - 冯允谦
-  - 及时行乐 - 洪嘉豪
 Tool:
   - gamma: 'https://gamma.app/create/generate'
   - kimi chat: 'https://kimi.moonshot.cn'
