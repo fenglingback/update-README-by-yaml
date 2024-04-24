@@ -63,6 +63,7 @@
 
 <h2 align='center'>⚡️<i>Keeping the Beginning, Not Assimilating!</i>⚡️</h1>
 
+
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/main/wave.svg" alt="Github Stats" />
 </p>
