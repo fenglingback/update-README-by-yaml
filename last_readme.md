@@ -25,25 +25,25 @@
 
 <table align="center">
     <tr>
-      <th>Code</th><th>Article</th><th>Music</th><th>Tool</th><th>Keep Concern</th>
+      <th align="center">Code</th><th align="center">Article</th><th align="center">Music</th><th align="center">Tool</th><th align="center">Keep Concern</th>
     </tr>
     <tr>
-      <td>C++</td><td><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP">HTTP</a></td><td>City 17 - Aega</td><td><a href="https://gamma.app/create/generate">gamma</a></td><td>邯郸初中生遇害案</td>
+      <td align="center">C++</td><td align="center"><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP">HTTP</a></td><td align="center">City 17 - Aega</td><td align="center"><a href="https://gamma.app/create/generate">gamma</a></td><td align="center">邯郸初中生遇害案</td>
     </tr>
     <tr>
-      <td>QT</td><td><a href="https://github.com/fighting41love/funNLP#%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B">提示工程</a></td><td>骂不醒 - 胜屿</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td>女子酒店遇害借款未索回</td>
+      <td align="center">QT</td><td align="center"><a href="https://github.com/fighting41love/funNLP#%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B">提示工程</a></td><td align="center">骂不醒 - 胜屿</td><td align="center"><a href="https://kimi.moonshot.cn">kimi chat</a></td><td align="center">女子酒店遇害借款未索回</td>
     </tr>
     <tr>
-      <td>Node.js</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td>萝卜大叔讨薪</td>
+      <td align="center">Node.js</td><td align="center"><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td align="center">爱情悬崖 - 周杰伦</td><td align="center"></td><td align="center">萝卜大叔讨薪</td>
     </tr>
     <tr>
-      <td>Rust</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>I Don't Know - SEVENTEEN</td><td></td><td></td>
+      <td align="center">Rust</td><td align="center"><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td align="center">一刹那的烟火 - 陈小满/庄淇文29</td><td align="center"></td><td align="center"></td>
     </tr>
     <tr>
-      <td></td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td></td><td></td><td></td>
+      <td align="center"></td><td align="center"><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td align="center"></td><td align="center"></td><td align="center"></td>
     </tr>
     <tr>
-      <td></td><td><a href="https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code">claude3生成单元测试 prompt</a></td><td></td><td></td><td></td>
+      <td align="center"></td><td align="center"><a href="https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code">claude3生成单元测试 prompt</a></td><td align="center"></td><td align="center"></td><td align="center"></td>
     </tr>
     
 </table>

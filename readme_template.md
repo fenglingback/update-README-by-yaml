@@ -25,10 +25,10 @@
 
 <table align="center">
     <tr>
-      {% for th in ths %}<th>{{ th }}</th>{% endfor %}
+      {% for th in ths %}<th align="center">{{ th }}</th>{% endfor %}
     </tr>
     {% for item in trs %}<tr>
-      {% for td in item %}{% if td is mapping %}<td><a href="{{ td.values()|first }}">{{ td.keys()|first }}</a></td>{% else %}<td>{{ td }}</td>{% endif %}{% endfor %}
+      {% for td in item %}{% if td is mapping %}<td align="center"><a href="{{ td.values()|first }}">{{ td.keys()|first }}</a></td>{% else %}<td align="center">{{ td }}</td>{% endif %}{% endfor %}
     </tr>
     {% endfor %}
 </table>
