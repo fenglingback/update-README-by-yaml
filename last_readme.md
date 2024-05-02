@@ -37,7 +37,7 @@
       <td align="center">Node.js</td><td align="center"><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td align="center">雨痕 - 魏晨</td><td align="center"></td><td align="center">萝卜大叔讨薪</td>
     </tr>
     <tr>
-      <td align="center">Rust</td><td align="center"><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td align="center">一刹那的烟火 - 陈小满/庄淇文29</td><td align="center"></td><td align="center">21岁代打少年被女友长期PUA后最后被分手跳江身亡</td>
+      <td align="center">Rust</td><td align="center"><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td align="center">一刹那的烟火 - 陈小满/庄淇文29</td><td align="center"></td><td align="center">21岁代打少年被女友长期PUA最后被分手跳江身亡</td>
     </tr>
     <tr>
       <td align="center"></td><td align="center"><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td align="center"></td><td align="center"></td><td align="center"></td>
