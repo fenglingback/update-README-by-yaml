@@ -6,7 +6,7 @@
 
 <h4 align="center">
   <i>⚡️Make things beautiful while pursuing simplicity and efficiency.⚡️</i>
-</h5>
+</h4>
 
 <br>
 
