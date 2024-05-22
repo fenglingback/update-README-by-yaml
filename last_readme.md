@@ -5,7 +5,7 @@
 </div>
 
 <h4 align="center">
-  <i>⚡️Make things beautiful while pursuing simplicity and efficiency.⚡️</i>
+  <i>⚡️ Make things beautiful while pursuing simplicity and efficiency.⚡️</i>
 </h4>
 
 <br>
@@ -34,7 +34,7 @@
       <td align="center">QT</td><td align="center"><a href="https://github.com/fighting41love/funNLP#%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B">提示工程</a></td><td align="center">骂不醒 - 胜屿</td><td align="center"><a href="https://kimi.moonshot.cn">kimi chat</a></td><td align="center">女子酒店遇害借款未索回</td>
     </tr>
     <tr>
-      <td align="center">Node.js</td><td align="center"><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td align="center">雨痕 - 魏晨</td><td align="center"></td><td align="center">萝卜大叔讨薪</td>
+      <td align="center">Node.js</td><td align="center"><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td align="center">雨痕 - 魏晨</td><td align="center"><a href="https://duckduckgo.com/?q=DuckDuckGo&ia=chat">DDG AI Chat</a></td><td align="center">萝卜大叔讨薪</td>
     </tr>
     <tr>
       <td align="center">Rust</td><td align="center"><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td align="center">一刹那的烟火 - 陈小满/庄淇文29</td><td align="center"></td><td align="center">21岁代打少年被女友长期PUA最后被分手跳江身亡</td>

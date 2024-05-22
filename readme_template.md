@@ -5,7 +5,7 @@
 </div>
 
 <h4 align="center">
-  <i>⚡️Make things beautiful while pursuing simplicity and efficiency.⚡️</i>
+  <i>⚡️ Make things beautiful while pursuing simplicity and efficiency.⚡️</i>
 </h4>
 
 <br>
