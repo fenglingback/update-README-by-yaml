@@ -1,5 +1,6 @@
 from ruamel.yaml import YAML
 from jinja2 import Environment, FileSystemLoader
+import os
 
 
 def extend_list(input_list, target_length):
@@ -83,8 +84,8 @@ def to_markdown(data: list, files_list: list):
     # 提取数据行
     tr = data[1:]
 
-    # 创建模板加载器
-    templateLoader = FileSystemLoader(searchpath="./")
+    # 创建模板加载器，设置模板加载路径
+    templateLoader = FileSystemLoader(searchpath="./update_markdown_by_yaml/templates")
 
     # 创建模板环境
     templateEnv = Environment(loader=templateLoader)
@@ -106,6 +107,8 @@ def to_markdown(data: list, files_list: list):
 
 
 if __name__ == '__main__':
-    data = format_data(r'D:\repo\update_markdown_by_yaml\table_data.yml')
-    to_markdown(data, [r'D:\repo\update_markdown_by_yaml\last_readme.md',
-                r'D:\repo\fenglingback\README.md'])
+    # 打印当前工作目录，确保模板文件路径正确
+    print(os.getcwd())
+    data = format_data('./update_markdown_by_yaml/table_data.yml')
+    to_markdown(data, ['./update_markdown_by_yaml/last_readme.md',
+                './fenglingback/README.md'])
