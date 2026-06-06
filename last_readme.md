@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m @fenglingback <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧑 youngster | 💻 Software Tester | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="20"> China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧑 youngster | 💻 Computer Enthusiast | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="20"> China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <h4 align="center">
@@ -12,12 +12,12 @@
 
 <img align="right" height="168px" width="290px" src="https://raw.githubusercontent.com/fenglingback/My-Saved-Images/main/readme修饰/%E5%A4%9C%E5%87%8C%E4%BA%91.gif" />
 
-- 👀 Interested in Software QA, LLM, Desktop Application Development
-- 🌱 Learning automatic testing and LLM prompt optimization
+- :computer: Interested in Software QA, LLM, Desktop Application Development
+- 📚 Learning automatic testing and LLM prompt optimization
 - :muscle: Lingyun Ye(夜凌云) FanBoi：卑鄙只是弱者的伎俩，真正的强者根本不屑为之
 - :robot: Follow the Wave of AI and Look Forward to AGI
-- :fire:  All kinds of fire music, <i>enjoying Phonk lately</i>
-- <img src="https://github.com/fenglingback/My-Saved-Images/blob/main/readme修饰/Palestine.png?raw=true" width="20" /> ${\color{green}Don't\ give\ up,\ Palestinian\ !}$
+- 🎵 All kinds of fire music, <i>enjoying Phonk lately</i>
+- 🕊️ ${\color{green}Don't\ give\ up,\ Palestinian\ !}$
 
 <br>
 
@@ -32,10 +32,10 @@
       <td align="center"><a href="https://drissionpage.cn">DrissionPage</a></td><td align="center"><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP">HTTP请求</a></td><td align="center">鸟之诗 - TypeD</td><td align="center"><a href="https://goblin.tools/">GoblinTools</a></td><td align="center">邯郸初中生遇害案</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/langgenius/dify">Dify</a></td><td align="center"><a href="https://github.com/dwmkerr/hacker-laws">程序员必读的法则、定律</a></td><td align="center">去北极忘记你 - Gareth.T</td><td align="center"><a href="https://gamma.app/create/generate">gamma</a></td><td align="center">萝卜大叔讨薪</td>
+      <td align="center"><a href="https://github.com/langgenius/dify">Dify</a></td><td align="center"><a href="https://github.com/dwmkerr/hacker-laws">程序员必读的法则、定律</a></td><td align="center">去北极忘记你 - Gareth.T</td><td align="center"><a href="https://duckduckgo.com/?q=DuckDuckGo&ia=chat">DDG AI Chat</a></td><td align="center">萝卜大叔讨薪</td>
     </tr>
     <tr>
-      <td align="center">Node.js</td><td align="center"><a href="https://github.com/fighting41love/funNLP#%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B">提示工程</a></td><td align="center">雨痕 - 魏晨</td><td align="center"><a href="https://duckduckgo.com/?q=DuckDuckGo&ia=chat">DDG AI Chat</a></td><td align="center"></td>
+      <td align="center">Node.js</td><td align="center"><a href="https://github.com/fighting41love/funNLP#%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B">提示工程</a></td><td align="center">雨痕 - 魏晨</td><td align="center"></td><td align="center"></td>
     </tr>
     <tr>
       <td align="center">C++</td><td align="center"><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td align="center">幸存者偏差 - XMASwu吴骜</td><td align="center"></td><td align="center"></td>
@@ -45,9 +45,6 @@
     </tr>
     <tr>
       <td align="center"></td><td align="center"><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td align="center"></td><td align="center"></td><td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td><td align="center"><a href="https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code">claude3生成单元测试 prompt</a></td><td align="center"></td><td align="center"></td><td align="center"></td>
     </tr>
     
 </table>

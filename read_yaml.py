@@ -85,7 +85,7 @@ def to_markdown(data: list, files_list: list):
     tr = data[1:]
 
     # 创建模板加载器，设置模板加载路径
-    templateLoader = FileSystemLoader(searchpath="./update_markdown_by_yaml/templates")
+    templateLoader = FileSystemLoader(searchpath="./templates")
 
     # 创建模板环境
     templateEnv = Environment(loader=templateLoader)
@@ -109,6 +109,6 @@ def to_markdown(data: list, files_list: list):
 if __name__ == '__main__':
     # 打印当前工作目录，确保模板文件路径正确
     print(os.getcwd())
-    data = format_data('./update_markdown_by_yaml/table_data.yml')
-    to_markdown(data, ['./update_markdown_by_yaml/last_readme.md',
-                './fenglingback/README.md'])
+    data = format_data('./table_data.yml')
+    to_markdown(data, ['./last_readme.md',
+                '../fenglingback/README.md'])
